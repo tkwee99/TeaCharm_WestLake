@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TeaCharm_WestLake/static/css/main.f1e4a1c2.css",
-    "main.js": "/TeaCharm_WestLake/static/js/main.d172d29d.js",
+    "main.css": "/TeaCharm_WestLake/static/css/main.b334bba2.css",
+    "main.js": "/TeaCharm_WestLake/static/js/main.0730d209.js",
     "static/js/787.129c7b2e.chunk.js": "/TeaCharm_WestLake/static/js/787.129c7b2e.chunk.js",
     "static/media/Asset 22.png": "/TeaCharm_WestLake/static/media/Asset 22.6af03f84d0f085100865.png",
     "static/media/bg.PNG": "/TeaCharm_WestLake/static/media/bg.e2d405a04ef0215cec9d.PNG",
@@ -79,12 +79,12 @@
     "static/media/Asset 16.png": "/TeaCharm_WestLake/static/media/Asset 16.562230335729cb88d6cf.png",
     "static/media/Asset 37.png": "/TeaCharm_WestLake/static/media/Asset 37.1d5bfbf2ed534cd2c174.png",
     "index.html": "/TeaCharm_WestLake/index.html",
-    "main.f1e4a1c2.css.map": "/TeaCharm_WestLake/static/css/main.f1e4a1c2.css.map",
-    "main.d172d29d.js.map": "/TeaCharm_WestLake/static/js/main.d172d29d.js.map",
+    "main.b334bba2.css.map": "/TeaCharm_WestLake/static/css/main.b334bba2.css.map",
+    "main.0730d209.js.map": "/TeaCharm_WestLake/static/js/main.0730d209.js.map",
     "787.129c7b2e.chunk.js.map": "/TeaCharm_WestLake/static/js/787.129c7b2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1e4a1c2.css",
-    "static/js/main.d172d29d.js"
+    "static/css/main.b334bba2.css",
+    "static/js/main.0730d209.js"
   ]
 }
